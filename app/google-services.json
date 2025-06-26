@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1896953758",
+    "project_id": "storeapp-eed5c",
+    "storage_bucket": "storeapp-eed5c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1896953758:android:6ea562406fd4f53c84488f",
+        "android_client_info": {
+          "package_name": "com.example.storeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzB_S7_Gu-luu5Xnp7J6oEyC08bhOMTnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
